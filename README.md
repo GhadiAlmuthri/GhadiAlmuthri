@@ -32,7 +32,7 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https:www.linkedin.com/in/ghadialmuthri)  
+- 🌐 [LinkedIn](https//:www.linkedin.com/in/ghadialmuthri)  
 - 🎨 Portfolio soon... stay tuned!  
 - ✉️ Reach me on: ghadi.almuthri@gmail.com
 
