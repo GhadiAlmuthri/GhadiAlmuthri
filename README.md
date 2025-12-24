@@ -1,28 +1,25 @@
-<h1 align="center">Hey! 👾 I'm Ghadi</h1>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE0dGsxandtbHlxYjVpNXkxZzVvdzdmeWQ4dGd3ZWVpcjVmMDkxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  alt="Pixel spaceship">  
+<h1 align="center">Hi! I'm Ghadi 👩‍💻</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Data-driven solutions | Python </h3>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI0cjZ2OGYzNGxmYmdud2FoNXd4NTVnZmEzN3JkaWt1bzAwbno5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif"  alt="Pixel spaceship">  
   
 </p>
 
 ---
 
-🎮 **Gameplay Programmer & Designer**  
-🚀 Building interactive experiences with imagination and code  
-🧠 Exploring how AI can shape the future of games
+🤖 AI & Machine Learning Enthusiast  
+📊 Building predictive models and data-driven solutions  
+🧠 Exploring time series forecasting, LSTM, and smart systems
 
 ---
 
 ### 🧩 What I'm Working On
 
-- 🛠 Learning Unreal Engine 5 (Blueprints & C++)
-- 🎮 Designing small game systems and prototypes
-- 💡 Planning future projects that combine AI with gameplay logic
-
+🛠 Currently working on projects that help me grow in Artificial Intelligence and Machine Learning
+💡 Exploring future fields that intersect with AI and how to build smart solutions for real-world problems
 ---
 
 ### 🧰 Tools I Use
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal Engine" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
@@ -33,7 +30,6 @@
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ghadialmuthri)  
-- 🎨 Portfolio soon... stay tuned!  
 - ✉️ Reach me on: ghadi.almuthri@gmail.com
 
 ---
