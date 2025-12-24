@@ -14,15 +14,20 @@
 
 ### 🧩 What I'm Working On
 
-🛠 Currently working on projects that help me grow in Artificial Intelligence and Machine Learning
-💡 Exploring future fields that intersect with AI and how to build smart solutions for real-world problems
+🛠 Currently working on projects that help me grow in Artifical Intlligence and Machine Learning 
+💡Exploring future fiels that intersect with AI and how to build solutions for real-world problems
+
 ---
 
 ### 🧰 Tools I Use
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" alt="Tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn" />
+
+  
 </p>
 
 ---
