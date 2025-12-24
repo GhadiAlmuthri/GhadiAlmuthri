@@ -1,5 +1,8 @@
 <h1 align="center">Hi! I'm Ghadi 👩‍💻</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Data-driven solutions | Python </h3>
+
+<p align="center">
+  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVraWRsbGxnc3EwYmZucTF4cmN4dDdtdjF2anJtbnA0NnczeHpkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"  alt="Pixel spaceship">  
   
 </p>
