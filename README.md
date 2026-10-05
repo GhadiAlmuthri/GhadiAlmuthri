@@ -8,10 +8,10 @@ Programming & Querying: Python · SQL
 Data Engineering: dbt · dlt · Snowflake · Azure · Git · GitHub
 Analytics & Visualization: Power BI
 
-****Data Engineering Project**
+**Data Engineering Project: 
 **
-Qurb: Riyadh Neighborhood Livability
-
+**Qurb: Riyadh Neighborhood Livability
+**
 A data engineering project focused on building an end-to-end pipeline for analyzing neighborhood livability in Riyadh. The project integrates rental market indicators, commercial and entertainment services, and geographic data, then transforms them into a structured Gold-layer data model for analytical reporting and visualization.
 
 **Key Contributions:**
@@ -22,9 +22,8 @@ A data engineering project focused on building an end-to-end pipeline for analyz
 - Connected the Snowflake Gold layer to Power BI, reducing data loading from 3:16 to 34 seconds (83% faster)
 
 
-****Playtesting Data Pipeline for Game Design
-****
-
+**Playtesting Data Pipeline for Game Design
+**
 A personal project exploring how Data Engineering can support game design decisions. The project aims to turn playtesting data into clear, measurable insights so designers can complement what they observe with actual numbers.
 
 **Project Focus:**
